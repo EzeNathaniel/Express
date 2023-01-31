@@ -1,0 +1,4 @@
+// views
+// landing page - all employees 
+// -->details - single employee (delete)
+// --> Creat - post  to  the server to add to the DB --> Homepage
